@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    padding: 100px 0; 
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+}
+main {
+    padding: 30px 40px;
+    background-color: lightblue;
+    height: 100vh;
+    border-radius: 8px;
+}
+#message{
+    width: 250px;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: rgba(250, 235, 215, 0.571);
+}
+#send {
+    width: 50px;
+    border-radius: 8px;
+    background-color: darkblue;
+    font-weight: bold;
+    color: aqua;
+    padding: 5px;
+}
+#send:hover{
+    background-color: rgba(21, 21, 181, 0.527);
+    color: beige;
+}
+#send:focus{
+    background-color: rgba(21, 21, 181, 0.527);
+    color: rgb(30, 30, 28);
+}

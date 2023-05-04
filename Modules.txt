@@ -1,0 +1,22 @@
+1. Работа с изображениями - GraphicsMagick и ImageMagick 
+2. Обработка изображений - Модуль sharp 
+3. Создание спрайт-листов - spritesmith.
+4. Форматирование дат - Moment.js.
+5. Проверка строковых данных - validate.js
+6. Работа с цветовыми значениями -  TinyColor2 
+7. Создание PDF-файлов -  PDFKit.
+8. Обработка HTML-файлов -  Cheerio. 
+9. Обработка CSV-файлов -  node-csv
+10. Обработка markdown-файлов -  marked. 
+11. Оптимизация и минификация изображений - Imagemin
+12. Минификация HTML -  html-minifier
+13. Минификация CSS -  clean-css
+14. Минификация JavaScript - UglifyJS2
+15. Минификация SVG - SVGO
+16. Логирование - winston
+17. Создание фиктивных данных -  faker.js
+18. Отправка сообщений электронной почты -  Nodemailer.
+19. Создание REST-API - restify
+20. Создание приложений командной строки - Commander.js. 
+
+https://nodejsdev.ru/

@@ -1,0 +1,16 @@
+{
+  "name": "node-education",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "st": "node fileAsync.js",
+    "dir": "node dir.js",
+    "server": "node server.js"
+  },
+  "author": "Nick34",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^5.2.0"
+  }
+}
